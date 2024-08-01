@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/Diamond.sol": {
-      "lastModificationDate": 1722357136823,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/Diamond.sol": {
+      "lastModificationDate": 1722533390949,
       "contentHash": "af15bfcd430491a3798ccb3620024d02",
       "sourceName": "contracts/Diamond.sol",
       "solcConfig": {
@@ -39,8 +39,8 @@
         "Diamond"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/libraries/LibDiamond.sol": {
-      "lastModificationDate": 1722357136823,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/libraries/LibDiamond.sol": {
+      "lastModificationDate": 1722533390949,
       "contentHash": "85ab75d52af1f28810ef39bbdb5d0a11",
       "sourceName": "contracts/libraries/LibDiamond.sol",
       "solcConfig": {
@@ -76,8 +76,8 @@
         "LibDiamond"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/interfaces/IDiamondCut.sol": {
-      "lastModificationDate": 1722357136823,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/interfaces/IDiamondCut.sol": {
+      "lastModificationDate": 1722533390949,
       "contentHash": "707e073af69d132ebdc36f0b766ed4d2",
       "sourceName": "contracts/interfaces/IDiamondCut.sol",
       "solcConfig": {
@@ -111,8 +111,8 @@
         "IDiamondCut"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/upgradeInitializers/DiamondInit.sol": {
-      "lastModificationDate": 1722357136822,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/upgradeInitializers/DiamondInit.sol": {
+      "lastModificationDate": 1722533390948,
       "contentHash": "a721ceb583ffa12ad799996378bcf846",
       "sourceName": "contracts/upgradeInitializers/DiamondInit.sol",
       "solcConfig": {
@@ -152,8 +152,8 @@
         "DiamondInit"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/interfaces/IDiamondLoupe.sol": {
-      "lastModificationDate": 1722357136824,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/interfaces/IDiamondLoupe.sol": {
+      "lastModificationDate": 1722533390949,
       "contentHash": "a471cd6a18e337530aa0fb37a1dd2294",
       "sourceName": "contracts/interfaces/IDiamondLoupe.sol",
       "solcConfig": {
@@ -187,8 +187,8 @@
         "IDiamondLoupe"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/interfaces/IERC173.sol": {
-      "lastModificationDate": 1722357136826,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/interfaces/IERC173.sol": {
+      "lastModificationDate": 1722533390950,
       "contentHash": "65e379207bc221335d0eedfe7b077af6",
       "sourceName": "contracts/interfaces/IERC173.sol",
       "solcConfig": {
@@ -222,8 +222,8 @@
         "IERC173"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/interfaces/IERC165.sol": {
-      "lastModificationDate": 1722357136824,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/interfaces/IERC165.sol": {
+      "lastModificationDate": 1722533390950,
       "contentHash": "f8f9ee2c76e1678bfead7a3fad131934",
       "sourceName": "contracts/interfaces/IERC165.sol",
       "solcConfig": {
@@ -257,8 +257,8 @@
         "IERC165"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/DiamondLoupeFacet.sol": {
-      "lastModificationDate": 1722357136821,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/DiamondLoupeFacet.sol": {
+      "lastModificationDate": 1722533390947,
       "contentHash": "ea3b2e64013d792244d705627a7d1aa9",
       "sourceName": "contracts/facets/DiamondLoupeFacet.sol",
       "solcConfig": {
@@ -296,8 +296,8 @@
         "DiamondLoupeFacet"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/OwnershipFacet.sol": {
-      "lastModificationDate": 1722357136821,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/OwnershipFacet.sol": {
+      "lastModificationDate": 1722533390946,
       "contentHash": "3ecfa87738e59d567e6c44c1708b9a7d",
       "sourceName": "contracts/facets/OwnershipFacet.sol",
       "solcConfig": {
@@ -334,8 +334,8 @@
         "OwnershipFacet"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/DiamondCutFacet.sol": {
-      "lastModificationDate": 1722357136821,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/DiamondCutFacet.sol": {
+      "lastModificationDate": 1722533390946,
       "contentHash": "e4ef88a55e3f841c72e68872d39d12a5",
       "sourceName": "contracts/facets/DiamondCutFacet.sol",
       "solcConfig": {
@@ -372,78 +372,8 @@
         "DiamondCutFacet"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/Test1Facet.sol": {
-      "lastModificationDate": 1722527101807,
-      "contentHash": "da76d3485933087d77a8e75fd23e7774",
-      "sourceName": "contracts/facets/Test1Facet.sol",
-      "solcConfig": {
-        "version": "0.8.6",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Test1Facet"
-      ]
-    },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/Test2Facet.sol": {
-      "lastModificationDate": 1722524831660,
-      "contentHash": "0b8aac9a88abcf6e85b40727fd787b65",
-      "sourceName": "contracts/facets/Test2Facet.sol",
-      "solcConfig": {
-        "version": "0.8.6",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Test2Facet"
-      ]
-    },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/Persons/AppStorage.sol": {
-      "lastModificationDate": 1722532495653,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/Persons/AppStorage.sol": {
+      "lastModificationDate": 1722533390948,
       "contentHash": "604f952118d5faef851bb7d093c8e987",
       "sourceName": "contracts/facets/Persons/AppStorage.sol",
       "solcConfig": {
@@ -475,8 +405,8 @@
       ],
       "artifacts": []
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/Persons/PersonsFaucet.sol": {
-      "lastModificationDate": 1722532487977,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/Persons/PersonsFaucet.sol": {
+      "lastModificationDate": 1722533390947,
       "contentHash": "85994ea8247fba54fb470eb24d0b5ff5",
       "sourceName": "contracts/facets/Persons/PersonsFaucet.sol",
       "solcConfig": {
@@ -512,8 +442,8 @@
         "PersonsFaucet"
       ]
     },
-    "/Users/ivansolomichev/Documents/projects/diff/diamond-3-hardhat copy/contracts/facets/Persons/FriendsFaucet.sol": {
-      "lastModificationDate": 1722532490978,
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/Persons/FriendsFaucet.sol": {
+      "lastModificationDate": 1722533390947,
       "contentHash": "8700bc9b80bb41625e1feecb3f783078",
       "sourceName": "contracts/facets/Persons/FriendsFaucet.sol",
       "solcConfig": {
@@ -547,6 +477,76 @@
       ],
       "artifacts": [
         "FriendsFaucet"
+      ]
+    },
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/Test1Facet.sol": {
+      "lastModificationDate": 1722533390947,
+      "contentHash": "da76d3485933087d77a8e75fd23e7774",
+      "sourceName": "contracts/facets/Test1Facet.sol",
+      "solcConfig": {
+        "version": "0.8.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Test1Facet"
+      ]
+    },
+    "/Users/ivansolomichev/Documents/projects/diff/diamons-3-hardhat/contracts/facets/Test2Facet.sol": {
+      "lastModificationDate": 1722533390946,
+      "contentHash": "0b8aac9a88abcf6e85b40727fd787b65",
+      "sourceName": "contracts/facets/Test2Facet.sol",
+      "solcConfig": {
+        "version": "0.8.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Test2Facet"
       ]
     }
   }
