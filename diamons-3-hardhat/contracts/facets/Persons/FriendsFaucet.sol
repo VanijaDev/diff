@@ -3,14 +3,17 @@ pragma solidity ^0.8.0;
 
 import { AppStorage } from "./AppStorage.sol";
 
-contract FriendsFaucet {
-  AppStorage internal s;
+// initial version - absent
 
-  function addFriend(uint256 _personId, uint256 _friendId) external {
-    s.friends[_personId].push(_friendId);
-  }
+// // upgraded
+// contract FriendsFaucet {
+//   AppStorage internal s;
 
-  function getFriends(uint256 _personId) external view returns (uint256[] memory friends_) {
-    friends_ = s.friends[_personId];
-  }
-}
+//   function addFriend(uint256 _personId, uint256 _friendId) external {
+//     s.friends[_personId].push(_friendId);
+//   }
+
+//   function getFriends(uint256 _personId) external view returns (uint256[] memory friends_) {
+//     friends_ = s.friends[_personId];
+//   }
+// }
